@@ -21,7 +21,6 @@ namespace Multiplicar
         {
              int numero1, numero2;
 
-            // Verificar que los números ingresados sean válidos
             if (int.TryParse(txtNumero1.Text, out numero1) && int.TryParse(txtNumero2.Text, out numero2))
             {
                 int resultado = Multiplicar(numero1, numero2);
