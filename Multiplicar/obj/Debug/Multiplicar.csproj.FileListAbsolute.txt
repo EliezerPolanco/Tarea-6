@@ -1,0 +1,10 @@
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\bin\Debug\Multiplicar.exe.config
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\bin\Debug\Multiplicar.exe
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\bin\Debug\Multiplicar.pdb
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\obj\Debug\Multiplicar.csproj.AssemblyReference.cache
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\obj\Debug\Multiplicar.Form1.resources
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\obj\Debug\Multiplicar.Properties.Resources.resources
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\obj\Debug\Multiplicar.csproj.GenerateResource.cache
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\obj\Debug\Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\obj\Debug\Multiplicar.exe
+C:\Users\Eliez\Desktop\C# Basico\Programas\Multiplicar\obj\Debug\Multiplicar.pdb
